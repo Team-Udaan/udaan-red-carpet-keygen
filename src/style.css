@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+}
+
+#container {
+  position: absolute;
+  height: 50vh;
+  width: 100vw;;
+  margin-top: 25vh;
+}
+
+#enroll {
+  margin: 0 auto;
+  max-width: 20ch;
+}
+
+#pin {
+  font-size: 5rem;
+  letter-spacing: 0.5rem;
+}
