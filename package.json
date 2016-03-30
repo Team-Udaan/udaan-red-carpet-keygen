@@ -1,0 +1,25 @@
+{
+  "name": "udaan-red-carpet-keygen",
+  "version": "1.0.0",
+  "description": "Udaan Red Carpet Keygen",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Udaan/udaan-red-carpet-keygen.git"
+  },
+  "keywords": [
+    "Udaan",
+    "Red",
+    "Carpet",
+    "Keygen"
+  ],
+  "author": "Dixita Ganatra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-Udaan/udaan-red-carpet-keygen/issues"
+  },
+  "homepage": "https://github.com/Team-Udaan/udaan-red-carpet-keygen#readme"
+}

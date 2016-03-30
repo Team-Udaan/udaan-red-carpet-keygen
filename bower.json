@@ -1,0 +1,24 @@
+{
+  "name": "udaan-red-carpet-keygen",
+  "description": "Udaan Red Carpet Keygen",
+  "main": "src/index.html",
+  "authors": [
+    "Dixita Ganatra"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Udaan",
+    "Red",
+    "Carpet",
+    "Keygen"
+  ],
+  "homepage": "https://github.com/Team-Udaan/udaan-red-carpet-keygen",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
