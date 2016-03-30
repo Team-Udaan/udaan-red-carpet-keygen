@@ -1,12 +1,5 @@
-body {
-  height: 100vh;
-}
-
 #container {
-  position: absolute;
-  height: 50vh;
-  width: 100vw;;
-  margin-top: 25vh;
+  margin-top: 20vh;
 }
 
 #enroll {
